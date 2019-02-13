@@ -1,0 +1,6 @@
+Assumptions
+Question 1 : Assuming that the floor instruction will only contain '(' and ')', on occurrence of any other character the instruction will be treated as invalid and user will be given achance to retry.
+
+Question 2 : Worker starts from the location of (0,0), so if the file is empty the output would be 1,as the worker reads the house at the starting position by default.
+
+Question 4 : Assuming that the input expression will have just 2 operands and one bitwise operator .
